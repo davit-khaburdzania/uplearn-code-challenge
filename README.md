@@ -1,0 +1,2 @@
+## Runing Tests
+`mix test`
